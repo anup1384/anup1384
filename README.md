@@ -3,6 +3,7 @@
 I'm Anup Dubey. A DevOps Engineer at @Paytm, Delhi.
 Occasionally, I blog on [Medium](https://medium.com/@anupdubey)
 
+![](https://cdn.dribbble.com/users/1480650/screenshots/4739771/autodevops-dribbble-gif.gif)
 
 ---
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/anup-dubey/)
