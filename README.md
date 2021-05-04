@@ -6,8 +6,8 @@ Occasionally, I blog on [Medium](https://medium.com/@anupdubey)
 ---
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/anup-dubey/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anup1384&show_icons=true&theme=tokyonight)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anup1384&show_icons=true&theme=tokyonight)
+![Anup's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anup1384&show_icons=true&theme=tokyonight)
+![Anup's github stats](https://github-readme-stats.vercel.app/api?username=anup1384&show_icons=true&theme=tokyonight)
 
 
 <!--
