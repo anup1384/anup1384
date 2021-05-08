@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Anup Dubey. A DevOps Engineer at @Paytm, Delhi.
-Occasionally, I blog on [Medium](https://medium.com/@anupdubey)
+Occasionally, I blog on [Medium](https://anupdubey.medium.com/)
 
 ---
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/anup-dubey/)
