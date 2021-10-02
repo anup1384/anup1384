@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a DevOps Engineer, I’m passionate about Kubernetes, Docker, AWS, GCP, Jenkins, Terraform, Ansible.
+I’m a DevOps Engineer and I’m passionate about Kubernetes, Docker, AWS, GCP, Jenkins, Terraform, Ansible.
 Occasionally, I blog on [Medium](https://anupdubey.medium.com/)
 
 ---
